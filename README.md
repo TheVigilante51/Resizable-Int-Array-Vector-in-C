@@ -4,4 +4,4 @@ A resizable int array written entirely in C (other resizable arrays are coming s
 <br /> To compile it run `gcc .\main.c .\Vector_Int.c -o output.exe` in the terminal of your choice.
 <br /> Then run `.\output.exe`
 <br /> 
-##Thank You For Checking out this repo !
+## Thank You For Checking out this repo !
